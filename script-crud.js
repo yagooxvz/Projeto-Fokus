@@ -1,0 +1,1 @@
+const btnAdicionarNovaTarefa = document.querySelector('.app__button--add-task')
